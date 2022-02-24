@@ -1,4 +1,4 @@
-# Housea Sale
+# Houses Sale
 
 Which houses buy to optimize the profit.
 
@@ -29,11 +29,11 @@ There’re two main questions that will be answered:
     
     **3. Step:** Identified the type of features, and converted date to format that it's possible to work.
     
-    4. Step: Used statistical metrics to identify prices outside of business scope.
+    **4. Step:** Used statistical metrics to identify prices outside of business scope.
     
-    5. Step: Answered the first question, the houses was grouped by region and calculated the median price, good conditions houses and price under median price of the region was appointed to buy, how deliverable was generated a report with the houses that should be buy.
+    **5. Step:** Answered the first question, the houses was grouped by region and calculated the median price, good conditions houses and price under median price of the region was appointed to buy, how deliverable was generated a report with the houses that should be buy.
     
-    6. Step: Answered the second question
+    **6. Step:** Answered the second question
     The houses was grouped by region and season and then calculated the median price.
     Houses that was suggested to buy and the price was below the median price calculated above, sell price defined purchased plus 30 percent.
     Houses that was suggested to buy and the price was under the median price calculated above, sell price defined purchased plus 10 percent.
