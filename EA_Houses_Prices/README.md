@@ -1,4 +1,4 @@
-# House Sales
+# Housea Sale
 
 Which houses buy to optimize the profit.
 
